@@ -18,33 +18,3 @@ if __name__ == '__main__':
     app = wx.App()
     frame = ClockFrame()
     app.MainLoop()
-
-################### Objectives ###################
-
-
-# DISPLAY
-# list alarms
-# show current time
-# active and inactive alarms
-
-# PLAY SOUND
-# audio signals at certain times
-# keep checking for certain time to come
-# snooze for 5 minutes
-
-# MANAGE TIME
-# display current time
-
-# ALARMS
-# create alarm
-# edit alarm
-# delete alarm
-# activate/ deactivate alarm
-
-# DATABASE
-# id
-# date
-# time
-# tone location
-
-
