@@ -1,7 +1,7 @@
 # Clock_Tool
 Clock Tool including Stopwatch, Timer and Alarm
 
-Open Main.py to run the app.
+# Open Main.py to run the app.
 stopwatch.py - includes logic for stopwatch tab
 timer.py - logic for timer part
 alarm.py - main logic for alarm
