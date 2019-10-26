@@ -5,9 +5,9 @@ Open **Main.py** to run the app.
 
 **stopwatch.py** - includes logic for stopwatch tab
 
-**timer.py** - logic for timer part
+**timer.py** - logic for timer tab
 
-**alarm.py** - main logic for alarm
+**alarm.py** - main logic for alarm tab
 
 * **database_connector.py** has class for reading, editing and deleting data from database
          
